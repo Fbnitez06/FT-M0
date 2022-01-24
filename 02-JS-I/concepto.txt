@@ -1,0 +1,7 @@
+Variables: es un elemento que tiene nombre y contiene un valor conocido o desconocido.
+Strings: es una variable para definir textos.
+Funciones: un bloque de código que hace algo que puede ser llamado para que se ejecute. 
+Los argumentos o parámetros de una función, van dentro del paréntesis que uno escribe y sirve para capturar los valores que yo le envié cuando llame a la función. 
+El return es lo que retorna el valor de una función, este return se va a colocar de último.
+Declaraciones if: el if simplemente es una pregunta que se significa "si"
+Valores booleanos: se dan por medio de operaciones comparativas, es decir; si se cumple o no una expresión, si es true(verdadera) o false (falsa)
