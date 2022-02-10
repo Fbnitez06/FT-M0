@@ -1,0 +1,11 @@
+for: El for es un bucle que me permite no repetir , es decir el bucle for evaluará la expresión 
+condicional sí es true se ejecutará nuevamente pero si es false dejara de funcionar.
+
+&&: Existen unos operadores lógicos que evalúan dos preposiciones, entre ellos el && significa and, 
+este evaluará las dos expresiones,  es decir si ambas son true devolverá verdad y si uno de ellos es falso o ambas son falsas,
+el operador devolverá false.
+
+||: Para el caso de || (o), llamado también OR, determinará si una de las expresiones es true; es decir, 
+si una o ambas  expresiones es true, el operador es true, pero si ambas son falsas el operador devolverá false.
+
+!: Quiere decir que estoy negando,  dame lo contrario de lo que te voy a enviar
