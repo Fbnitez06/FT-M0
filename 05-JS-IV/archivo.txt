@@ -1,0 +1,7 @@
+* Objetos: esta diseñado para tener una coleccion de Propiedades asociadas a una clave o valor, 
+permitiendo modelar lo que se quiere.
+* Propiedades: es la asociacion entre una clave y un valor
+	* Métodos: Se puede decir que son objetos que interactuan entre si
+	* Bucle `for…in`: se define la  propiedad donde estoy parado dentro (in) del objeto.
+	* Notación de puntos vs notación de corchetes:  la notación de puntos es muy practica ya que conozco el nombre de la propiedad mientras que notación de corchetes
+ no conozco el nombre de la propiedad; es decir tengo que encontrar el valor de la propiedad que contenga por ejemplo una palabra. 
