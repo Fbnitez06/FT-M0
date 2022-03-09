@@ -1,0 +1,2 @@
+'Prototype': es la capacidad de acceder al objeto más grande creador y buscar si ese objeto contiene la propiedad que estoy buscando.
+Constructors: Es lo que me construye las nuevas instancias
